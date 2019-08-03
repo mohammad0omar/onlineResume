@@ -1,2 +1,2 @@
 * linguist-vendored
-bootstrap linguist-vendored=false
+*.css linguist-vendored=false
